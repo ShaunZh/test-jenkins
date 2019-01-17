@@ -4,6 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
       <p>test jenkins</p>
+      <p>test jenkins2</p>
     </div>
     <router-view/>
   </div>
